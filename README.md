@@ -1,3 +1,4 @@
+## EXP - 06:   DATE - 07/12/24
 # Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
@@ -17,11 +18,17 @@ Visual components and Python
 
 
 ## Experiment:
+![image](https://github.com/user-attachments/assets/3d06352a-e8ee-4140-a49c-111813cb43ae)
 
+![image](https://github.com/user-attachments/assets/5d39d7d5-2647-4b18-8e7d-043c703f84fd)
 
 ## Program
-
+NAME: A.SHERWIN INFANO
+REG NO: 24010314
+![Screenshot (53)](https://github.com/user-attachments/assets/b0e82d84-7ed7-463f-94a2-2c00d6dae305)
 
 ## Output
+![image](https://github.com/user-attachments/assets/02c6439e-c970-45ae-9260-caa04bf803e7)
 
 ## Result
+The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
