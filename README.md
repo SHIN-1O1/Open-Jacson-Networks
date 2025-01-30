@@ -28,7 +28,9 @@ REG NO: 24010314
 ![Screenshot (53)](https://github.com/user-attachments/assets/b0e82d84-7ed7-463f-94a2-2c00d6dae305)
 
 ## Output
-![image](https://github.com/user-attachments/assets/02c6439e-c970-45ae-9260-caa04bf803e7)
+
+ ![image](https://github.com/user-attachments/assets/02c6439e-c970-45ae-9260-caa04bf803e7)
 
 ## Result
-The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
+
+ The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
